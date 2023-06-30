@@ -85,3 +85,6 @@
 # Ignore CLI configuration files
 **/.terraformrc
 **/terraform.rc
+
+**/code2
+**/serverless_endpoint
